@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Pink Shiba Batman",
+    "url_path": "/assets/pexels-anna-shvets-4587984.jpg",
+    "width": "3874",
+    "height": "5811",
+    "file_size": "3693679",
+    "date_added": "2020-09-06",
+    "status": "Active",
+    "colors": ["pink", "brown", "white"]
+  },
+  {
+    "title": "Puppy Dog",
+    "url_path": "/assets/pexels-dominika-roseclay-2023384.jpg",
+    "width": "1864",
+    "height": "2656",
+    "file_size": "320343",
+    "date_added": "2020-09-06",
+    "status": "Active",
+    "colors": ["black", "brown", "white"]
+  },
+  {
+    "title": "Colorful Parriot",
+    "url_path": "/assets/pexels-mark-broadhurst-105808.jpg",
+    "width": "2287",
+    "height": "2287",
+    "file_size": "930398",
+    "date_added": "2020-09-06",
+    "status": "Active",
+    "colors": ["blue", "red", "green", "orange"]
+  },
+  {
+    "title": "Pug in unicorn costume",
+    "url_path": "/assets/pexels-mark-glancy-1564506.jpg",
+    "width": "4692",
+    "height": "3016",
+    "file_size": "880711",
+    "date_added": "2020-09-06",
+    "status": "Active",
+    "colors": ["white", "black", "pink"]
+  },
+  {
+    "title": "Squirrel Eating",
+    "url_path": "/assets/pexels-nishant-aneja-2362528.jpg",
+    "width": "6000",
+    "height": "6000",
+    "file_size": "3583707",
+    "date_added": "2020-09-06",
+    "status": "Active",
+    "colors": ["brown"]
+  },
+  {
+    "title": "Three Duckies",
+    "url_path": "/assets/pexels-pixabay-162164.jpg",
+    "width": "6016",
+    "height": "4000",
+    "file_size": "7191674",
+    "date_added": "2020-09-06",
+    "status": "Active",
+    "colors": ["green", "yellow"]
+  },
+  {
+    "title": "Rabbit Eating Leaves",
+    "url_path": "/assets/pexels-piya-nimityongskul-2883510.jpg",
+    "width": "5466",
+    "height": "3642",
+    "file_size": "1529067",
+    "date_added": "2020-09-06",
+    "status": "Active",
+    "colors": ["black", "white", "green", "orange"]
+  }
+]
